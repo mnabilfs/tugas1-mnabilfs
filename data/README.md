@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Wikimedia Clickstream (Indonesian Wikipedia - idwiki)` |
+| Sumber | `https://dumps.wikimedia.org/other/clickstream/` |
+| Lisensi/ketentuan pakai | `CC0 (Creative Commons Zero) / Public Domain` |
+| Ukuran | `Jutaan baris data traffic/klik` |
+| Periode data | `Bulan terbaru` |
+| Unit analisis | `Lalu lintas klik antar artikel Wikipedia` |
 
 ## Tempat Mencari Dataset
 
