@@ -1,5 +1,9 @@
 # Tugas 1: Eksplorasi dan Analisis Dataset Besar Indonesia
 
+Nama: Muhammad Nabil Farras Sulthan
+NIM: 202310370311259
+Kelas: Analisis Big Data B
+
 Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-[username_github]`.
 
 ## Milestone
@@ -229,8 +233,8 @@ Buka JupyterLab pada `http://localhost:8888/lab`. Konfigurasi Dockerfile menjala
 
 Isi bagian ini sebelum pengumpulan akhir.
 
-> Alat AI yang digunakan: [nama alat].
+> Alat AI yang digunakan: Gemini Pro, Antigrafity.
 >
-> Bagian yang dibantu: [contoh: penjelasan error Polars atau review dokumentasi].
+> Bagian yang dibantu: Konsep dan Error Solved.
 >
-> Verifikasi yang dilakukan: [contoh: menjalankan ulang kode, memeriksa dokumentasi resmi, dan memahami setiap cell].
+> Verifikasi yang dilakukan: Diskusi konsep, perbaikan error, dan penjelasan kode.
