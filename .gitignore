@@ -30,3 +30,4 @@ output/*.json
 
 # Draft
 draft/
+notebooks/old/
